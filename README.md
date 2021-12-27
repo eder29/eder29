@@ -6,7 +6,7 @@ Aquí estaré subiendo todos mis proyectos
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on https://portafolio-edermogollon.com.mx/ 
+- 🔭 Estoy construyendo mi portafolio https://portafolio-edermogollon.com.mx/ 
 
 
 
