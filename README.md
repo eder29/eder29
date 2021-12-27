@@ -78,7 +78,7 @@
 
 <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:mogollonpastiti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mogollonpastiti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mogollonpastiti@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
